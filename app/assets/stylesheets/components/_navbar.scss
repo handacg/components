@@ -1,0 +1,36 @@
+.header {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	background-color: #f1f1f1;
+	padding: 10px 10px;
+}
+
+
+.header a.logo {
+  float:right;
+}
+
+.header a{
+	color: black;
+	text-align: center;
+	margin: 12px;
+	font-size: 20px;
+	text-decoration: none;
+	color:#5A6076;
+	line-height:50px;
+}
+
+.nav-text{
+	padding: 12px;
+	vertical-align:middle;
+}
+
+
+.header a:hover {
+  color: black;
+}
+
+
+
+
+
