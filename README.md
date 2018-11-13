@@ -1,24 +1,9 @@
-# README
+**Meditation**	
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>Is that something for hippies ?
 
-Things you may want to cover:
+[ ] No it's not, give it a try, you will love it
+[ ] 10 mins a day, ~~it's better than sex~~
+[ ] Ready ?
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go check the website here : 
