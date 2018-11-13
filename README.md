@@ -6,4 +6,4 @@
 - [ ] 10 mins a day, ~~it's better than sex~~
 - [ ] Ready ?
 
-*Go check the website here* : 
+*Go check the website here* : https://secret-cliffs-38319.herokuapp.com/
