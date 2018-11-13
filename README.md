@@ -1,4 +1,4 @@
-**Meditation**	
+## Meditation
 
 >Is that something for hippies ?
 
@@ -6,4 +6,4 @@
 [ ] 10 mins a day, ~~it's better than sex~~
 [ ] Ready ?
 
-Go check the website here : 
+*Go check the website here* : 
